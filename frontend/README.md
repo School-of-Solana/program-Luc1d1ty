@@ -1,6 +1,6 @@
 # ROTOR Frontend
 
-The web interface for ROTOR —where blockchain time capsules meet cyberpunk aesthetics. Built with Next.js, this dApp lets you create, view, and unlock time capsules on Solana. You can lock messages and SOL tokens until a future date, and unlock them when the time comes.
+The web interface for ROTOR Built with Next.js, this dApp lets you create, view, and unlock time capsules on Solana. You can lock messages and SOL tokens until a future date, and unlock them when the time comes.
 
 No backend server. No database.
 
